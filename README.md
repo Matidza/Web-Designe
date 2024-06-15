@@ -4,7 +4,7 @@ Sure, here is the updated README file tailored for a React web development repos
 
 # Web Development with React
 
-![WEB](https://github.com/Matidza/Web-Dev/assets/125007667/c681be4d-2a5a-4b00-90bc-4680d6de827d)
+![react-must-be-in-scope-when-using-jsx](https://github.com/Matidza/Web-Dev/assets/125007667/daddb16d-d24a-44ac-a1f5-e31ef1cc8c82)
 
 ## Overview
 
