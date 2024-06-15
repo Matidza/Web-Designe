@@ -1,8 +1,4 @@
-Sure, here is the updated README file tailored for a React web development repository:
-
----
-
-# Web Development with React
+# Web Designe with React
 
 ![react-must-be-in-scope-when-using-jsx](https://github.com/Matidza/Web-Dev/assets/125007667/daddb16d-d24a-44ac-a1f5-e31ef1cc8c82)
 
